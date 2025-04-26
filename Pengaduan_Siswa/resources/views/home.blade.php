@@ -2,7 +2,7 @@
 @section('container')
 <div class="row">
     <div class="col-12 mb-4">
-        <img src="{{ asset('img/a5f0e031592e11b0d022e8a963140a43.jpg') }}" class="d-block rounded-3" height="600" width="100%"
+        <img src="{{ asset('img/a5f0e031592e11b0d022e8a963140a43.jpg') }}" class="d-block rounded-3" height="500" width="100%"
                   alt="...">
     </div>
     <div class="col-12">
